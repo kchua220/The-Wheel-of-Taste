@@ -1,0 +1,557 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		F3B441462D0BD0AA00925042 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F3B4412D2D0BD0A800925042 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F3B441342D0BD0A800925042;
+			remoteInfo = "The Wheel of Taste";
+		};
+		F3B441502D0BD0AA00925042 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F3B4412D2D0BD0A800925042 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F3B441342D0BD0A800925042;
+			remoteInfo = "The Wheel of Taste";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		F3B441352D0BD0A800925042 /* The Wheel of Taste.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "The Wheel of Taste.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F3B441452D0BD0AA00925042 /* The Wheel of TasteTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "The Wheel of TasteTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F3B4414F2D0BD0AA00925042 /* The Wheel of TasteUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "The Wheel of TasteUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		F3B441372D0BD0A800925042 /* The Wheel of Taste */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "The Wheel of Taste";
+			sourceTree = "<group>";
+		};
+		F3B441482D0BD0AA00925042 /* The Wheel of TasteTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "The Wheel of TasteTests";
+			sourceTree = "<group>";
+		};
+		F3B441522D0BD0AA00925042 /* The Wheel of TasteUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "The Wheel of TasteUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		F3B441322D0BD0A800925042 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F3B441422D0BD0AA00925042 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F3B4414C2D0BD0AA00925042 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		F3B4412C2D0BD0A800925042 = {
+			isa = PBXGroup;
+			children = (
+				F3B441372D0BD0A800925042 /* The Wheel of Taste */,
+				F3B441482D0BD0AA00925042 /* The Wheel of TasteTests */,
+				F3B441522D0BD0AA00925042 /* The Wheel of TasteUITests */,
+				F3B441362D0BD0A800925042 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		F3B441362D0BD0A800925042 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F3B441352D0BD0A800925042 /* The Wheel of Taste.app */,
+				F3B441452D0BD0AA00925042 /* The Wheel of TasteTests.xctest */,
+				F3B4414F2D0BD0AA00925042 /* The Wheel of TasteUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		F3B441342D0BD0A800925042 /* The Wheel of Taste */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F3B441592D0BD0AA00925042 /* Build configuration list for PBXNativeTarget "The Wheel of Taste" */;
+			buildPhases = (
+				F3B441312D0BD0A800925042 /* Sources */,
+				F3B441322D0BD0A800925042 /* Frameworks */,
+				F3B441332D0BD0A800925042 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				F3B441372D0BD0A800925042 /* The Wheel of Taste */,
+			);
+			name = "The Wheel of Taste";
+			packageProductDependencies = (
+			);
+			productName = "The Wheel of Taste";
+			productReference = F3B441352D0BD0A800925042 /* The Wheel of Taste.app */;
+			productType = "com.apple.product-type.application";
+		};
+		F3B441442D0BD0AA00925042 /* The Wheel of TasteTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F3B4415C2D0BD0AA00925042 /* Build configuration list for PBXNativeTarget "The Wheel of TasteTests" */;
+			buildPhases = (
+				F3B441412D0BD0AA00925042 /* Sources */,
+				F3B441422D0BD0AA00925042 /* Frameworks */,
+				F3B441432D0BD0AA00925042 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F3B441472D0BD0AA00925042 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				F3B441482D0BD0AA00925042 /* The Wheel of TasteTests */,
+			);
+			name = "The Wheel of TasteTests";
+			packageProductDependencies = (
+			);
+			productName = "The Wheel of TasteTests";
+			productReference = F3B441452D0BD0AA00925042 /* The Wheel of TasteTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		F3B4414E2D0BD0AA00925042 /* The Wheel of TasteUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F3B4415F2D0BD0AA00925042 /* Build configuration list for PBXNativeTarget "The Wheel of TasteUITests" */;
+			buildPhases = (
+				F3B4414B2D0BD0AA00925042 /* Sources */,
+				F3B4414C2D0BD0AA00925042 /* Frameworks */,
+				F3B4414D2D0BD0AA00925042 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F3B441512D0BD0AA00925042 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				F3B441522D0BD0AA00925042 /* The Wheel of TasteUITests */,
+			);
+			name = "The Wheel of TasteUITests";
+			packageProductDependencies = (
+			);
+			productName = "The Wheel of TasteUITests";
+			productReference = F3B4414F2D0BD0AA00925042 /* The Wheel of TasteUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		F3B4412D2D0BD0A800925042 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1620;
+				LastUpgradeCheck = 1620;
+				TargetAttributes = {
+					F3B441342D0BD0A800925042 = {
+						CreatedOnToolsVersion = 16.2;
+					};
+					F3B441442D0BD0AA00925042 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = F3B441342D0BD0A800925042;
+					};
+					F3B4414E2D0BD0AA00925042 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = F3B441342D0BD0A800925042;
+					};
+				};
+			};
+			buildConfigurationList = F3B441302D0BD0A800925042 /* Build configuration list for PBXProject "The Wheel of Taste" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = F3B4412C2D0BD0A800925042;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = F3B441362D0BD0A800925042 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F3B441342D0BD0A800925042 /* The Wheel of Taste */,
+				F3B441442D0BD0AA00925042 /* The Wheel of TasteTests */,
+				F3B4414E2D0BD0AA00925042 /* The Wheel of TasteUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		F3B441332D0BD0A800925042 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F3B441432D0BD0AA00925042 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F3B4414D2D0BD0AA00925042 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		F3B441312D0BD0A800925042 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F3B441412D0BD0AA00925042 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F3B4414B2D0BD0AA00925042 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		F3B441472D0BD0AA00925042 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = F3B441342D0BD0A800925042 /* The Wheel of Taste */;
+			targetProxy = F3B441462D0BD0AA00925042 /* PBXContainerItemProxy */;
+		};
+		F3B441512D0BD0AA00925042 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = F3B441342D0BD0A800925042 /* The Wheel of Taste */;
+			targetProxy = F3B441502D0BD0AA00925042 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		F3B441572D0BD0AA00925042 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		F3B441582D0BD0AA00925042 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		F3B4415A2D0BD0AA00925042 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"The Wheel of Taste/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "kchua220.The-Wheel-of-Taste";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		F3B4415B2D0BD0AA00925042 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"The Wheel of Taste/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "kchua220.The-Wheel-of-Taste";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		F3B4415D2D0BD0AA00925042 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "kchua220.The-Wheel-of-TasteTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/The Wheel of Taste.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/The Wheel of Taste";
+			};
+			name = Debug;
+		};
+		F3B4415E2D0BD0AA00925042 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "kchua220.The-Wheel-of-TasteTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/The Wheel of Taste.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/The Wheel of Taste";
+			};
+			name = Release;
+		};
+		F3B441602D0BD0AA00925042 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "kchua220.The-Wheel-of-TasteUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "The Wheel of Taste";
+			};
+			name = Debug;
+		};
+		F3B441612D0BD0AA00925042 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "kchua220.The-Wheel-of-TasteUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "The Wheel of Taste";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F3B441302D0BD0A800925042 /* Build configuration list for PBXProject "The Wheel of Taste" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F3B441572D0BD0AA00925042 /* Debug */,
+				F3B441582D0BD0AA00925042 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F3B441592D0BD0AA00925042 /* Build configuration list for PBXNativeTarget "The Wheel of Taste" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F3B4415A2D0BD0AA00925042 /* Debug */,
+				F3B4415B2D0BD0AA00925042 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F3B4415C2D0BD0AA00925042 /* Build configuration list for PBXNativeTarget "The Wheel of TasteTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F3B4415D2D0BD0AA00925042 /* Debug */,
+				F3B4415E2D0BD0AA00925042 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F3B4415F2D0BD0AA00925042 /* Build configuration list for PBXNativeTarget "The Wheel of TasteUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F3B441602D0BD0AA00925042 /* Debug */,
+				F3B441612D0BD0AA00925042 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = F3B4412D2D0BD0A800925042 /* Project object */;
+}
