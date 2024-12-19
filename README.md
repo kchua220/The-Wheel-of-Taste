@@ -9,7 +9,7 @@ An engaging iOS app designed to answer the eternal question: “What should I ea
 - Interactive Spinning Wheel: Watch the vibrant wheel spin and land on a meal suggestion that suits your selected cuisine and budget.
 - Customizable Budgets: Select a budget range (<$15, $15-$30, >$30) to get meal suggestions that fit your spending preference.
 - Polished Animations: Enjoy a visually immersive experience with stunning animations powered by Lottie and SwiftUI transitions.
-- Localized Meal Suggestions: Over 20 cuisines with tailored meal options to keep your dining experience diverse and exciting.
+- Localized Meal Suggestions: Over 300 meal options to keep your dining experience diverse and exciting.
 - User-Friendly Interface: An intuitive and accessible design ensures a seamless user experience.
 - Enhanced Visuals: Gradient backgrounds, falling emojis, and smooth transitions make this app a feast for the eyes.
 
@@ -29,4 +29,15 @@ An engaging iOS app designed to answer the eternal question: “What should I ea
 ### Results!
 <img width="371" alt="Screenshot 2024-12-19 at 7 52 21 PM" src="https://github.com/user-attachments/assets/9291380c-23ba-4715-a1d0-6a5b6e61d5bc" />
 
+-----------------------------------------------------------------------------------------------------------
+### Tech Stack 🛠️
+- Swift: The backbone of the app, ensuring smooth performance and compatibility with iOS.
+- SwiftUI: For building a modern, declarative UI.
+- Lottie: For engaging animations that bring the app to life.
+- CoreGraphics: Used to design visually appealing elements like the spinning wheel.
+- CoreAnimation: Powering the smooth transitions and spinning effects.
 
+-----------------------------------------------------------------------------------------------------------
+## Let’s Spin the Wheel! 🎉
+
+Explore the app and embark on a delicious journey with The Wheel of Taste! Feel free to open an issue or reach out if you have suggestions or feedback!
