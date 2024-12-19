@@ -5,7 +5,7 @@ An engaging iOS app designed to answer the eternal question: “What should I ea
 -----------------------------------------------------------------------------------------------------------
 
 ### Features 🌟
-- Dynamic Cuisine Selection: Choose from a wide variety of cuisines, including Italian, Indian, American, Japanese, and more (total of 20 choices!).
+- Dynamic Cuisine Selection: Choose from a wide variety of (20) cuisines, including Italian, Indian, American, Japanese, and more!
 - Interactive Spinning Wheel: Watch the vibrant wheel spin and land on a meal suggestion that suits your selected cuisine and budget.
 - Customizable Budgets: Select a budget range (<$15, $15-$30, >$30) to get meal suggestions that fit your spending preference.
 - Polished Animations: Enjoy a visually immersive experience with stunning animations powered by Lottie and SwiftUI transitions.
@@ -40,4 +40,4 @@ An engaging iOS app designed to answer the eternal question: “What should I ea
 -----------------------------------------------------------------------------------------------------------
 ## Let’s Spin the Wheel! 🎉
 
-Explore the app and embark on a delicious journey with The Wheel of Taste! Feel free to open an issue or reach out if you have suggestions or feedback!
+Explore the app and embark on a delicious journey with The Wheel of Taste! Feel free to reach out if you have suggestions or feedback!
